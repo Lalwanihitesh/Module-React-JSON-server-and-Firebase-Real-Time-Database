@@ -1,0 +1,8 @@
+{
+    "users": [
+      { "id": 1, "firstName": "beta", "lastName": "alpha", "email": "beta@knf.com" },
+      { "id": 2, "firstName": "alpha", "lastName": "gama", "email": "alpha@knf.com" },
+      { "id": 3, "firstName": "tera", "lastName": "era", "email": "tera@gmail.com" }
+    ]
+  }
+  
